@@ -35,7 +35,7 @@ $config['base_url'] = ''; //ini saya coba ubah lagi (yoga)
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = 'index.php'; //ini nulis terserah dimana? (egy)
 
 /*
 |--------------------------------------------------------------------------
